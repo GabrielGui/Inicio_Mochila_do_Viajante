@@ -1,3 +1,5 @@
 
+<<<<<<< HEAD
 Exercicio em dupla da aula de introdução informatica.
 Exercicio feito gratidão.
+=======
